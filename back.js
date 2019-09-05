@@ -19,7 +19,6 @@ function triggerEvent(){
 		//3 = up
 	});
 	
-
 }
 
 chrome.runtime.onMessage.addListener(
